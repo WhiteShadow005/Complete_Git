@@ -1,1 +1,4 @@
 # Complete_Git
+So basically this is a temporary repo just for my practise in github...
+<br>
+If anyone new here ... Just leave this repo... It's of no use.
